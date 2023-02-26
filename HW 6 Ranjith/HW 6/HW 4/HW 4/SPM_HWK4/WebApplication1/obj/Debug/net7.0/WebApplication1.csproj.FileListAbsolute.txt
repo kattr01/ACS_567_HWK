@@ -1,0 +1,102 @@
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\HWK4.deps.json
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\HWK4.runtimeconfig.json
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\HWK4.exe
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\HWK4.dll
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\HWK4.pdb
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+C:\Users\hsake\OneDrive\Desktop\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\HWK4.deps.json
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\HWK4.runtimeconfig.json
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\HWK4.exe
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\HWK4.dll
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\bin\Debug\net7.0\HWK4.pdb
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+C:\Users\hsake\OneDrive\Desktop\HW 6\HW 4\HW 4\SPM_HWK4\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll

@@ -1,0 +1,24 @@
+﻿@page
+@model WebApplication1.Pages.Todos.CreateModel
+@{
+}
+<br>
+<h2>Create Storeitems</h2>
+@if (@Model.errorMessage.Length > 0) {
+    <div>@Model.errorMessage</div>
+}
+<form method="POST">
+    <table>
+        <tr>
+            <td>Description</td>
+            <td><input type="text" name="description" value="@Model.todo.Description"></td>
+        </tr>
+    </table>
+    <p></p>
+    
+    @if (@Model.successMessage.Length > 0) {
+        <div>@Model.successMessage</div>
+    }
+
+<input type="submit" value="Add" class="btn btn-primary" />
+</Form>

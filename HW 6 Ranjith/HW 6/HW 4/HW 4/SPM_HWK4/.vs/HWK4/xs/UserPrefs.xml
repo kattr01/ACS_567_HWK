@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{A5AFAC56-B0AF-4CCF-8E6E-730A960BF985}|https">
+  <MonoDevelop.Ide.ItemProperties.HWK4 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HWK4/Controllers/ExpenditureController.cs">
+    <Files>
+      <File FileName="HWK4/appsettings.json" Line="7" Column="32" />
+      <File FileName="HWK4/Models/Todo.cs" Line="13" Column="23" />
+      <File FileName="HWK4/Program.cs" Line="52" Column="1" />
+      <File FileName="HWK4/Interfaces/ITodoRepository.cs" Line="8" Column="29" />
+      <File FileName="HWK4/Data/DataContext.cs" Line="11" Column="4" />
+      <File FileName="HWK4/Controllers/TodoController.cs" Line="99" Column="14" />
+      <File FileName="HWK4/Seed.cs" Line="24" Column="46" />
+      <File FileName="HWK4/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="HWK4/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="HWK4/Repositories/ExpenditureRepository.cs" Line="54" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HWK4" expanded="True">
+            <Node name="HWK4" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="ExpenditureRepository.cs" selected="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
