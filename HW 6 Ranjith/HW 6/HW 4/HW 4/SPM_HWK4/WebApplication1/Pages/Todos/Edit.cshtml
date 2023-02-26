@@ -1,0 +1,30 @@
+﻿@page
+@model WebApplication1.Pages.Todos.EditModel
+@{
+}
+<br>
+<h2>Edit Storeitem</h2>
+@if (@Model.errorMessage.Length > 0)
+{
+    <div>@Model.errorMessage</div>
+}
+<form method="POST">
+    <input tybe="hidden" name="id" value=" @Model.todo.Id" />
+    <table>
+        <tr>
+            <td>Description</td>
+            <td><input type="text" name="description" value="@Model.todo.Description"></td>
+        </tr>
+        <tr>
+            <td>Is Completed</td>
+            <td><input type="checkbox" name="isCompleted" @( Model.todo.IsCompleted ? "checked":"")></td>
+        </tr>
+    </table>
+    <p></p>
+    @if (@Model.successMessage.Length > 0)
+    {
+        <div>aModeL.successMessage</div>
+    }
+    <input type="submit" value="Edit" class="btn btn-primary" />
+</form>
+

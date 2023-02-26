@@ -1,0 +1,25 @@
+﻿@page
+@model WebApplication1.Pages.Todos.DeleteModel
+@{
+}
+<br>
+<h2>Delete Storeitem</h2>
+@if (@Model.errorMessage.Length > 0)
+{
+        <div>@Model.errorMessage</div>
+}
+<form method="POST">
+    <input type="hidden" name="id" value="@Model.todo.Id" />
+    <table>
+        <tr>
+            <td>Description</td>
+            <td>@Model.todo.Description</td>
+        </tr>
+        <tr>
+             <td>Is Completed</td>
+             <td>@Model.todo.IsCompleted</td>
+        </tr>
+    </table>
+    <p></p>
+    <input type="submit" value="Delete" class="btn btn-primary" />
+</form>

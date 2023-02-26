@@ -1,4 +1,0 @@
-1,Tomato,Red Tangy Vegitable,Vegitable,20
-2,Grape,Small Frit,Fruit,17
-3,Chillie,Red Spicy Vegitable,Vegitable,16
-4,Orange,Red Tangy Fruit,Fruit,13
