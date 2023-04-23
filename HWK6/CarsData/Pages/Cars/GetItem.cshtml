@@ -1,0 +1,27 @@
+﻿@page
+@model CarsWebApp.Pages.Cars.GetItemModel
+@{
+}
+
+<form method="POST">
+    <table>
+        <tr>
+             <td>IndexNo</td>
+            <td><input type="text" name="IndexNo" /></td>
+        </tr>
+    </table>
+    <p></p>
+    @if (@Model.sucessMessage.Length > 0)
+    {
+        <div>@Model.sucessMessage</div>
+    }
+
+    <input type="submit" value="Get Car" class="btn btn-primary" />
+</form>
+
+<div>IndexNo : @Model.Car.IndexNo</div>
+<div>CarName : @Model.Car.CarName</div>
+<div>Year : @Model.Car.Year</div>
+<div>Director : @Model.Car.Director</div>
+<div>Producer : @Model.Car.Producer</div>
+<div>CriticScore : @Model.Car.CriticScore</div>

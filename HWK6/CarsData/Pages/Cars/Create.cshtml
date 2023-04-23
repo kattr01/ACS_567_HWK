@@ -1,0 +1,44 @@
+﻿@page
+@model CarsWebApp.Pages.Cars.CreateModel
+@{
+}
+<br>
+<h2>Create Car Details</h2>
+
+@if (@Model.errorMessage.Length > 0)
+{
+    <div> @Model.errorMessage</div>
+}
+<form method ="POST">
+    <table>
+        <tr>
+            <td>IndexNo</td>
+            <td><input type="text" name="IndexNo"</td>
+
+            <td>CarName</td>
+            <td><input type="text" name="CarName"</td>
+
+            <td>Year</td>
+            <td><input type="text" name="Year"</td>
+
+            <td>Director</td>
+            <td><input type="text" name="Director"</td>
+
+            <td>Producer</td>
+            <td><input type="text" name="Producer"</td>
+
+            <td>CriticScore</td>
+            <td><input type="text" name="CriticScore"</td>
+
+              
+        </tr>
+    </table>
+    <p></p>
+
+    @if (@Model.sucessMessage.Length > 0)
+    {
+        <div>@Model.sucessMessage</div>
+    }
+
+    <input type="submit" value="Add" class="btn btn-primary" />
+</form>

@@ -1,0 +1,30 @@
+﻿@page
+@model CarsWebApp.Pages.Cars.EditModel
+@{
+}
+
+<br>
+<h2>Edit Car Details</h2>
+
+@if (@Model.errorMessage.Length > 0)
+{
+    <div> @Model.errorMessage</div>
+}
+
+<form method="POST">
+    <input type="hidden" name="IndexNo" value ="@Model.Car.IndexNo" />
+
+    <table>
+        <tr>
+           <td>CriticScore</td>
+            <td><input type="text" name="CriticScore"/></td>
+        </tr>
+    </table>
+    <p></p>
+    @if (@Model.sucessMessage.Length > 0)
+    {
+        <div>@Model.sucessMessage</div>
+    }
+
+    <input type="submit" value="Edit" class="btn btn-primary" />
+</form>

@@ -1,0 +1,43 @@
+﻿@page
+@model CarsWebApp.Pages.Cars.IndexModel
+@{
+}
+<br>
+<h2>List of Cars</h2>
+
+<a class="btn btn-primary btn-sm" href = "/Cars/Create">New Car</a>
+<a class="btn btn-primary btn-sm" href="/Cars/Analysis">Analyze Data</a>
+<a class="btn btn-primary btn-sm" href="/Cars/GetItem">Get Car</a>
+
+
+<table class=" table">
+
+    <thead>
+        <tr>
+            <th>IndexNo</th>
+            <th>CarName</th>
+            <th>Year</th>
+            <th>Director</th>
+            <th>Producer</th>
+            <th>CriticScore</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Cars)
+        {
+            <tr>
+                <td>@item.IndexNo</td>
+                <td>@item.CarName</td>
+                <td>@item.Year</td>
+                <td>@item.Director</td>
+                <td>@item.Producer</td>
+                <td>@item.CriticScore</td>
+                
+                <td>
+                    <a class="btn btn-primary btn-sm" href = "/Cars/Edit?IndexNo=@item.IndexNo">Edit</a>
+                    <a class="btn btn-danger btn-sm" href = "/Cars/Delete?IndexNo=@item.IndexNo">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+    </table>
